@@ -10,5 +10,7 @@ The programme focuses on;
 1. HTML
 2. CSS
 3. Javascript
+   
+I am looking forward to learn how to use [Visual Studio Code](https://code.visualstudio.com/)   
 
 
